@@ -58,7 +58,14 @@
 		{
 			"name" "Apex 1.1.2"
 		}
-		
+        "culmod"
+        {   
+            "name" "culmod"
+        } 
+        "cmel"
+        {
+            "name" "CULMod Elite"
+        }	
 	}
 	"3V3 Configs"
 	{
