@@ -32,7 +32,7 @@
     }
     "4"
     {
-        "chat"      "[{green}!{default}] 本服提供三方地图对抗 /vote投票更换喵,有想玩的地图请联系HANA"
+        "chat"      "[{green}!{default}] 本服提供三方地图对抗 /vote投票更换喵,有想玩的地图请QQ联系深海3066935948"
     }
     "5"
     {
@@ -52,7 +52,7 @@
     }
     "9"
     {
-        "chat"      "[{green}!{default}] 本服由{yellow}HANA{default}维护,有什么问题请及时反馈:)P门~"
+        "chat"      "[{green}!{default}] 本服由{yellow}深海{default}维护,有什么问题请及时反馈:)~"
     }
     "10"
     {
