@@ -1,0 +1,7 @@
+ServerName
+{
+	"20005"
+	{
+		"baseName"	"怀黍离"
+	}
+}
