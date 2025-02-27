@@ -58,9 +58,20 @@
 		{
 			"name" "Apex 1.1.2"
 		}
-		
+        "culmod"
+        {   
+	        "name" "culmod"
+        } 
+        "cmel"
+        {
+            "name" "CULMod Elite"
+        }
+        "realismvs"
+        {
+            "name" "Off Realism(写实对抗)"
+        }
 	}
-	"3V3 Configs"
+	 "3V3 Configs"
 	{
 		"zm3v3"
 		{
@@ -85,6 +96,10 @@
 		"zh3v3"
 		{
 			"name" "3v3 ZoneHunters"
+		}
+        "cm3v3"
+		{
+			"name" "3v3 culmod"
 		}
 	}
 	"2V2 Configs"
